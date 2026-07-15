@@ -4,7 +4,12 @@
 
 An end-to-end analytics portfolio project that diagnoses a two-sided marketplace GMV slowdown, traces it to seller supply and search discovery, proposes a fulfillment-aware ranking intervention, and validates that intervention using a reusable CUPED implementation. The repository combines 320K related search events, 41K transactions, production-style SQL, statistical analysis, decision documents, and a three-tab Streamlit dashboard.
 
-> **Live app:** `https://YOUR-APP.streamlit.app` (replace after deployment)
+## Live application
+
+**Streamlit dashboard:** https://marketplace-intelligence-platform-aakanshak.streamlit.app/
+
+**GitHub repository:**https://github.com/Aakanshak/marketplace-intelligence-platform
+## The story
 
 ## Architecture
 
