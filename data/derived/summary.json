@@ -1,0 +1,30 @@
+{
+  "diagnosis": {
+    "latest_month": "2026-06-01",
+    "gmv_change": -52517.149999999994,
+    "gmv_change_pct": -0.21592458708246165,
+    "buyer_impact": -44107.55586153448,
+    "frequency_impact": -1218.2529694656027,
+    "aov_impact": -9099.82242973141,
+    "latest_gmv": 190702.72,
+    "prior_gmv": 243219.87
+  },
+  "relationship": {
+    "correlation": 0.10723707285455886,
+    "coefficient": 0.3458246143821958,
+    "p_value": 0.8397609926161596
+  },
+  "cliff_rank": 11,
+  "top5_ctr": 0.1709375,
+  "below10_ctr": 0.019125,
+  "projected_ctr_lift": 0.012145,
+  "projected_monthly_gmv": 2316.0845344,
+  "variance_reduction": 0.036152862725177815,
+  "naive_p": 0.34506006489867025,
+  "cuped_p": 0.3379191866280017,
+  "health_segments": {
+    "Healthy": 347,
+    "At-Risk": 292,
+    "Churned": 161
+  }
+}
