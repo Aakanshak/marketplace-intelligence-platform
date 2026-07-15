@@ -30,7 +30,7 @@ def analyze(d):
 
 st.sidebar.title("Marketplace Intelligence")
 st.sidebar.markdown("A decision platform tracing a GMV slowdown from marketplace mechanics through search discovery and a CUPED-powered ranking experiment.")
-st.sidebar.markdown("[Executive memo](../docs/exec_memo.md)  \n[Product PRD](../docs/product_prd.md)  \n[Experiment readout](../docs/experiment_readout.md)")
+st.sidebar.markdown("[Executive memo](https://github.com/Aakanshak/marketplace-intelligence-platform/blob/main/docs/exec_memo.md)  \n[Product PRD](https://github.com/Aakanshak/marketplace-intelligence-platform/blob/main/docs/product_prd.md)  \n[Experiment readout](https://github.com/Aakanshak/marketplace-intelligence-platform/blob/main/docs/experiment_readout.md)")
 d = load_data()
 gmv, health, elasticity, ctr, funnel, retention = analyze(d)
 category = st.sidebar.selectbox("Category", ["All"] + sorted(gmv.category.unique().tolist()))
