@@ -6,9 +6,8 @@ An end-to-end analytics portfolio project that diagnoses a two-sided marketplace
 
 ## Live application
 
-**Streamlit dashboard:** https://marketplace-intelligence-platform-aakanshak.streamlit.app/
+**Streamlit dashboard:** 
 
-**GitHub repository:**https://github.com/Aakanshak/marketplace-intelligence-platform
 ## The story
 
 ## Architecture
